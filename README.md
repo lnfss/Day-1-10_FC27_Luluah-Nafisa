@@ -3,12 +3,10 @@
 
 ---
 
-| Keterangan | Informasi |
-|---|---|
-| Nama Lengkap | Lu'lu'ah Nafisa |
-| Nama Kelompok | 10_FC27 |
-| Kelas | Teknik Informatika - 1A |
-| Materi | Pengenalan Git & GitHub |
+Nama Lengkap: Lu'lu'ah Nafisa  
+Nama Kelompok: 10_FC27  
+Kelas: Teknik Informatika - 1A  
+Materi: Pengenalan Git & GitHub
 
 ---
 
