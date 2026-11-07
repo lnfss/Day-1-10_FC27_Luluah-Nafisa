@@ -1,4 +1,4 @@
-# DAY 1 – EXPECTIK
+# DAY 1 – EXPECTIK 2026
 ## Building with AI, Managing Change with GitHub
 
 ---
