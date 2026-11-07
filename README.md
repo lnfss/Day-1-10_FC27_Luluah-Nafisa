@@ -3,13 +3,13 @@
 
 ---
 
+|---|---|
 | Nama Lengkap | Lu'lu'ah Nafisa |
 | Nama Kelompok | 10_FC27 |
 | Kelas | Teknik Informatika - 1A |
 | Materi | Pengenalan Git & GitHub |
 
 ---
-
 ## 2. Deskripsi Repository
 
 Repository ini dibuat sebagai bentuk dokumentasi kegiatan day 1 EXPECTIK 2026, yang berfokus pada kegiatan sosialisasi jurusan dan workshop dengan tema **"Building with AI, Managing Change with GitHub"**. Di dalamnya terdapat rangkuman materi, catatan pembelajaran, serta berbagai pengetahuan yang diperoleh selama kegiatan, khususnya mengenai penggunaan Git dan GitHub dalam pengelolaan proyek, version control, dan kolaborasi pengembangan perangkat lunak.
