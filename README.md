@@ -10,17 +10,17 @@ Materi: Pengenalan Git & GitHub
 
 ---
 
-## 2. Deskripsi Repository
+## 1. Deskripsi Repository
 
 Repository ini dibuat sebagai bentuk dokumentasi kegiatan day 1 EXPECTIK 2026, yang berfokus pada kegiatan sosialisasi jurusan dan workshop dengan tema **"Building with AI, Managing Change with GitHub"**. Di dalamnya terdapat rangkuman materi, catatan pembelajaran, serta berbagai pengetahuan yang diperoleh selama kegiatan, khususnya mengenai penggunaan Git dan GitHub dalam pengelolaan proyek, version control, dan kolaborasi pengembangan perangkat lunak.
 
-## 3. Tujuan Repository
+## 2. Tujuan Repository
 
 Repository ini bertujuan untuk mendokumentasikan kegiatan dan materi pembelajaran selama day 1 EXPECTIK sekaligus menjadi tempat penyimpanan catatan dan referensi dalam memahami penggunaan Git dan GitHub untuk mendukung proses pengembangan perangkat lunak.
 
 ---
 
-## 4. Dokumentasi Kegiatan Workshop
+## 3. Dokumentasi Kegiatan Workshop
 
 ### A. Rangkuman Materi Workshop
 
@@ -133,8 +133,6 @@ ssh -T git@github.com
 
 Jika autentikasi berhasil, GitHub akan menampilkan pesan bahwa pengguna berhasil melakukan autentikasi.
 
----
-
 ### B. Poin-Poin Penting dan Pengetahuan Baru
 
 1. Git dan GitHub memiliki fungsi yang berbeda. Git digunakan untuk mengelola perubahan proyek, sedangkan GitHub menjadi platform untuk menyimpan repository secara online dan mendukung kolaborasi.
@@ -142,12 +140,7 @@ Jika autentikasi berhasil, GitHub akan menampilkan pesan bahwa pengguna berhasil
 3. Proses penyimpanan perubahan dalam Git dilakukan melalui tahapan `git add` untuk menyiapkan perubahan dan `git commit` untuk menyimpannya ke dalam riwayat repository.
 4. Perintah `git push` dan `git pull` digunakan untuk mengirim dan mengambil perubahan antara repository lokal dan repository remote.
 5. SSH Key menjadi salah satu metode autentikasi yang dapat digunakan untuk menghubungkan komputer lokal dengan GitHub.
-6. Dalam penggunaan AI, penyusunan prompt perlu memperhatikan Role, Task, Context, dan Format agar hasil yang diberikan lebih sesuai dengan kebutuhan.
 
----
+### C. Pendapat Pribadi tentang Day 1 Proyek Workshop
 
-### C. Pendapat Pribadi tentang Day 1 EXPECTIK
-
-Menurut saya, kegiatan Day 1 EXPECTIK cukup menarik karena memberikan banyak pengetahuan baru, terutama tentang Git dan GitHub yang ternyata memiliki peran penting dalam pengembangan perangkat lunak. Dari materi yang disampaikan, saya jadi lebih mengenal cara mengelola perubahan pada proyek, menyimpan riwayat pekerjaan, dan menghubungkan repository lokal dengan GitHub. Materi ini juga membuat saya lebih memahami pentingnya version control agar pengerjaan proyek lebih teratur dan memudahkan kolaborasi dengan orang lain. Tentunya, pengetahuan ini akan sangat berguna untuk menunjang proses pembelajaran dan pengerjaan proyek ke depannya.
-
----
+Menurut saya, kegiatan pada day 1 proyek workshop cukup menarik karena memberikan banyak pengetahuan baru, terutama tentang Git dan GitHub yang ternyata memiliki peran penting dalam pengembangan perangkat lunak. Dari materi yang disampaikan, saya jadi lebih mengenal cara mengelola perubahan pada proyek, menyimpan riwayat pekerjaan, dan menghubungkan repository lokal dengan GitHub. Materi ini juga membuat saya lebih memahami pentingnya version control agar pengerjaan proyek lebih teratur dan memudahkan kolaborasi dengan orang lain. Tentunya, pengetahuan ini akan sangat berguna untuk menunjang proses pembelajaran dan pengerjaan proyek ke depannya.
